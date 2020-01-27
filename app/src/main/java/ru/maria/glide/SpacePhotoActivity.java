@@ -18,7 +18,7 @@ public class SpacePhotoActivity extends AppCompatActivity {
 
     public static final String EXTRA_SPACE_PHOTO = "SpacePhotoActivity.SPACE_PHOTO";
     private ImageView mImageView;
-
+//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
